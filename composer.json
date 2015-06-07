@@ -1,0 +1,11 @@
+{
+    "name": "major-caiger/doctrine-entity-generator",
+    "description": "Reverse engineer DB into Doctrine entities",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zend-modulemanager": "~2.5.0",
+        "zendframework/zend-console": "~2.5.0",
+        "zendframework/zend-mvc": "~2.5.0",
+        "doctrine/doctrine-orm-module": "~0.9.0"
+    }
+}
